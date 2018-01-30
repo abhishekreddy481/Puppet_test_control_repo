@@ -8,6 +8,7 @@ mod "puppetlabs/concat",      '2.1.0'
 mod 'stahnma-epel', '1.3.0'
 mod 'puppetlabs-motd', '1.7.0'
 mod 'puppetlabs-java', '2.4.0'
+mod 'puppetlabs-ntp', '7.1.0'
 # Modules from Git
 # Examples: https://github.com/puppetlabs/r10k/blob/master/doc/puppetfile.mkd#examples
 #mod 'apache',
